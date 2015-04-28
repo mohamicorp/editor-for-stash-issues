@@ -1,2 +1,2 @@
-# editor-for-stash-issues
-Issue Management System for Stash Editor
+# Editor for Stash
+This repo is empty and only used as a issue management system for Editor for Stash.
