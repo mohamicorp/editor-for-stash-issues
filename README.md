@@ -1,2 +1,3 @@
+[![Stories in Ready](https://badge.waffle.io/mdavoodi/editor-for-stash-issues.png?label=ready&title=Ready)](https://waffle.io/mdavoodi/editor-for-stash-issues)
 # Editor for Stash
 Installation is simple. Just install the plugin using atlassians interface. It works right out of the box...
