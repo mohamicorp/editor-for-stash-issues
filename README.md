@@ -1,5 +1,5 @@
 # Power Editor for Bitbucket
-NOTICE: We've moved the issue tracker. It can now be found [here](https://mohamicorp.atlassian.net/browse/PEFB).
+**NOTICE: We've moved the issue tracker. It can now be found [here](https://mohamicorp.atlassian.net/browse/PEFB)**.
 
 Installation is simple. Just install the plugin using Atlassian's interface. It works right out of the box!
 
